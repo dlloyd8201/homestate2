@@ -55,7 +55,7 @@ figure {
 
 ::selection {
   color: #fcfcfc;
-  background: #f30606; }
+  background: black; }
 
 #fh5co-header {
   position: relative;
@@ -73,7 +73,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #f30606; }
+  background: black; }
 .header-top .fh5co-link a {
   margin-left: 10px;
   font-size: 13px;
@@ -245,7 +245,7 @@ figure {
   *width: 12em; }
 
 .sf-menu a {
-  color: rgba(0, 0, 0, 0.5);
+  color: white;
   padding: 0.75em 1em !important;
   font-weight: normal;
   border-left: none;
@@ -313,7 +313,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #f30606; }
+  background: black; }
 
 .nav-header {
   position: relative;
@@ -742,7 +742,7 @@ div.cs-select span {
   font-weight: 400; }
 
 .fh5co-agent {
-  background: #f30606; }
+  background: black; }
 .fh5co-agent h3, .fh5co-agent p {
   color: #fff !important; }
 .fh5co-agent .fh5co-staff {
@@ -1264,11 +1264,11 @@ div.cs-select span {
   transition: 0.2s; }
 .fh5co-nav-toggle.dark i {
   position: relative;
-  color: #000;
-  background: #000;
+  color: white;
+  background: white;
   transition: all .2s ease-out; }
 .fh5co-nav-toggle.dark i::before, .fh5co-nav-toggle.dark i::after {
-  background: #000;
+  background: white;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s; }
